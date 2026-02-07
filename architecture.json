@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-european-epistolary-spiritual-seeking",
+  "title": "The Bell That Choked on Rust",
+  "tagline": "A disillusioned scholar is hired by a monk to find a lost medieval codex, sending him on a search through Europe that becomes a quest for his own vanished faith.",
+  "target_words": 71884,
+  "actual_words": 71884,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Search for Lost Meaning",
+    "Epistolary Intimacy and Distance",
+    "Modern Disillusionment vs. Medieval Faith",
+    "Cartography of the Interior Self"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Reminder of Arrears, Sodden Blue",
+      "words": 5990
+    },
+    {
+      "ch": 2,
+      "title": "The Soul's Axis, A Greener Grid",
+      "words": 5990
+    },
+    {
+      "ch": 3,
+      "title": "The Maze of One's Own Home",
+      "words": 5990
+    },
+    {
+      "ch": 4,
+      "title": "A Sliver of Profound Darkness",
+      "words": 5990
+    },
+    {
+      "ch": 5,
+      "title": "The Long, Grey Subtraction",
+      "words": 5990
+    },
+    {
+      "ch": 6,
+      "title": "Ascent Through a Tightening Canal",
+      "words": 5990
+    },
+    {
+      "ch": 7,
+      "title": "The Bell That Choked on Rust",
+      "words": 5990
+    },
+    {
+      "ch": 8,
+      "title": "A Cold Companion in the River Mist",
+      "words": 5990
+    },
+    {
+      "ch": 9,
+      "title": "Symmetry as a Rebuke",
+      "words": 5990
+    },
+    {
+      "ch": 10,
+      "title": "The Colour of Filing Cabinets",
+      "words": 5990
+    },
+    {
+      "ch": 11,
+      "title": "A Surgical Silence",
+      "words": 5990
+    },
+    {
+      "ch": 12,
+      "title": "The Map of Old Rivers",
+      "words": 5990
+    }
+  ]
+}
